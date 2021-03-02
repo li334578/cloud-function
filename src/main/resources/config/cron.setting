@@ -1,0 +1,6 @@
+# 我是注释
+[com.example.cloudfunction.job]
+# WeatherJob.sendWeatherDing = 30 35 7 * * ?
+WeatherJob.sendWeatherDingShangHai =  30 40 7 * * ?
+WeatherJob.sendWeatherDingChangSha = 30 35 7 * * ?
+# WeatherJob.sendWeatherDing = 30 25 17 * * ?
